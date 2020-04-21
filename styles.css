@@ -88,7 +88,13 @@ main {
 
 
 
+
 /* colors */
+
+
+#colors {    
+    top: 80px;               /*  to fix the problems with the scrolling nav-bar  */
+}
 
 .color-container {
     margin: 30px;
@@ -139,6 +145,10 @@ main {
 
 /* fonts */
 
+
+#fonts {    
+    top: 80px;               /*  to fix the problems with the scrolling nav-bar  */
+}
 
 .font-container {
     margin: 30px;
@@ -205,6 +215,10 @@ h3 {
 
 /* text-styles */
 
+
+#text-styles {    
+    top: 80px;               /*  to fix the problems with the scrolling nav-bar  */
+}
 
 .text-styles-container {
     margin: 30px;
